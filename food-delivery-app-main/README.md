@@ -13,7 +13,6 @@ Urban Eats is a food delivery website built using the MERN stack (MongoDB, Expre
 - [Usage](#usage)
 - [Admin Panel](#admin-panel)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -159,9 +158,6 @@ The frontend server will run on `http://localhost:8000`.
 
 Contributions are welcome! Please create an issue or submit a pull request for any changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Deployment
 
@@ -169,6 +165,3 @@ Urban Eats is deployed and can be accessed using the following link:
 
 [Urban Eats Deployment](https://food-delivery-app-client-m6rc.onrender.com/)
 
----
-
-Enjoy using Urban Eats! If you have any questions or need further assistance, please feel free to contact us.
